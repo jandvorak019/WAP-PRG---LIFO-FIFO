@@ -1,4 +1,4 @@
-# WAP-PRG---LIFO-FIFO
+# WAP-PRG-LIFO-FIFO
 
 
 ## Instructions
